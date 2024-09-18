@@ -1,6 +1,7 @@
 # LLM Experiments
 
-This repository contains several experiments that attempt to apply Large Language Models to help software development teams with their development processes.
+This repository contains several experiments created in [work for ICTU](https://github.com/ICTU/LLM_experiments) that attempt to apply Large Language Models to help software development teams with their development processes.
+
 
 ## Installing dependencies
 
@@ -27,3 +28,15 @@ To summarize a code base, run:
 ```console
 python summarize_code.py <folder>
 ```
+
+## Experiment 2: writing architecture documentation
+
+...
+
+## Experiment 3: generating unit tests
+
+...
+
+## Experiment 4: generating and scoring user stories
+
+... 
